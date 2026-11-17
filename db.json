@@ -1,0 +1,23 @@
+
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Welcome to BlogSpace",
+      "content": "Welcome to BlogSpace! This is your first blog post. You can create, edit, search and delete blog posts using this application. Start sharing your thoughts and ideas with the world.",
+      "imageUrl": "",
+      "videoUrl": "",
+      "createdAt": "2026-11-01T10:00:00.000Z",
+      "updatedAt": "2026-11-01T10:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "title": "Why Learning React Is Useful",
+      "content": "React is a popular JavaScript library used for building interactive user interfaces. It allows developers to create reusable components and manage application state efficiently. Learning React is a valuable skill for modern web development.",
+      "imageUrl": "",
+      "videoUrl": "",
+      "createdAt": "2026-11-02T10:00:00.000Z",
+      "updatedAt": "2026-11-02T10:00:00.000Z"
+    }
+  ]
+}
